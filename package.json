@@ -1,0 +1,20 @@
+{
+  "name": "mongodb_server",
+  "version": "1.0.0",
+  "description": "First MongoDB Server Test.",
+  "main": "app.js",
+  "scripts": {
+    "test": "run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

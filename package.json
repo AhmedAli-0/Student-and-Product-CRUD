@@ -1,7 +1,7 @@
 {
   "name": "mongodb_server",
   "version": "1.0.0",
-  "description": "First MongoDB Server Test.",
+  "description": "Student and Product CRUD with MongoDB Server And Connect with ReactJS(Frontend).",
   "main": "app.js",
   "scripts": {
     "test": "run dev"
